@@ -1,4 +1,4 @@
-name: Node.js Package
+name: PIPELINE Package
 
 on:
   release:
